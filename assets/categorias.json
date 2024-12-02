@@ -1,0 +1,52 @@
+[
+    {
+        "titulo": "Herramientas Manuales",
+        "slug": "herramientas-manuales",
+        "_id": "1000"
+    },
+    {
+        "titulo": "Herramientas Eléctricas",
+        "slug": "herramientas-electricas",
+        "_id": "1001"
+    },
+    {
+        "titulo": "Fontanería",
+        "slug": "fontaneria",
+        "_id": "1002"
+    },
+    {
+        "titulo": "Pinturas y Acabados",
+        "slug": "pinturas-acabados",
+        "_id": "1003"
+    },
+    {
+        "titulo": "Electricidad",
+        "slug": "electricidad",
+        "_id": "1004"
+    },
+    {
+        "titulo": "Jardinería",
+        "slug": "jardineria",
+        "_id": "1005"
+    },
+    {
+        "titulo": "Materiales de Construcción",
+        "slug": "materiales-construccion",
+        "_id": "1006"
+    },
+    {
+        "titulo": "Seguridad y Protección",
+        "slug": "seguridad-proteccion",
+        "_id": "1007"
+    },
+    {
+        "titulo": "Ferretería para el Hogar",
+        "slug": "ferreteria-hogar",
+        "_id": "1008"
+    },
+    {
+        "titulo": "Accesorios Automotrices",
+        "slug": "accesorios-automotrices",
+        "_id": "1009"
+    }
+]
